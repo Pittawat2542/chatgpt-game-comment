@@ -15,7 +15,7 @@ from src.utils import parse_json
 
 def run_task(selected_game_state: list[dict]) -> None:
     logging.info(f"Starting game comment generation.")
-    for idx, component in enumerate(tqdm(PROMPT_COMPONENTS, desc="Prompt components")):
+    for idx, component in enumerate(tqdm(PROMPT_COMPONENTS + ["All"], desc="Prompt components")):
         logging.info("Component %s:", component)
         enable_prompt_component = []
         for k in range(len(PROMPT_COMPONENTS)):

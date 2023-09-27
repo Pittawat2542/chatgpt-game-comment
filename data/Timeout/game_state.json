@@ -1,0 +1,2859 @@
+[
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 0,
+            "position": {
+                "left": 220,
+                "right": 260,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 0,
+            "position": {
+                "left": 700,
+                "right": 740,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "time_left": 60.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 0,
+            "position": {
+                "left": 270,
+                "right": 310,
+                "top": 355,
+                "bottom": 560
+            },
+            "speed": {
+                "x": 10,
+                "y": -13
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 0,
+            "position": {
+                "left": 660,
+                "right": 700,
+                "top": 267,
+                "bottom": 472
+            },
+            "speed": {
+                "x": -10,
+                "y": -2
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 59.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 392,
+            "energy": 5,
+            "position": {
+                "left": 597,
+                "right": 637,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -13,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 4,
+            "position": {
+                "left": 669,
+                "right": 709,
+                "top": 383,
+                "bottom": 588
+            },
+            "speed": {
+                "x": 0,
+                "y": -2
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fa",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 58.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 380,
+            "energy": 25,
+            "position": {
+                "left": 274,
+                "right": 314,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -5,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Landing",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 14,
+            "position": {
+                "left": 396,
+                "right": 436,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -3,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Landing",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 57.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 358,
+            "energy": 45,
+            "position": {
+                "left": 74,
+                "right": 114,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 29,
+            "position": {
+                "left": 375,
+                "right": 415,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 3
+        },
+        "time_left": 56.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 358,
+            "energy": 45,
+            "position": {
+                "left": 172,
+                "right": 212,
+                "top": 309,
+                "bottom": 514
+            },
+            "speed": {
+                "x": 10,
+                "y": 10
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 29,
+            "position": {
+                "left": 215,
+                "right": 255,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -8,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 55.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 346,
+            "energy": 55,
+            "position": {
+                "left": 177,
+                "right": 217,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 400,
+            "energy": 39,
+            "position": {
+                "left": 340,
+                "right": 380,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 54.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 346,
+            "energy": 65,
+            "position": {
+                "left": 250,
+                "right": 290,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 388,
+            "energy": 49,
+            "position": {
+                "left": 401,
+                "right": 441,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 4,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 53.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 346,
+            "energy": 75,
+            "position": {
+                "left": 250,
+                "right": 290,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 376,
+            "energy": 69,
+            "position": {
+                "left": 452,
+                "right": 492,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 52.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 346,
+            "energy": 75,
+            "position": {
+                "left": 305,
+                "right": 345,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 376,
+            "energy": 69,
+            "position": {
+                "left": 367,
+                "right": 407,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 51.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 324,
+            "energy": 85,
+            "position": {
+                "left": 155,
+                "right": 195,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 376,
+            "energy": 84,
+            "position": {
+                "left": 367,
+                "right": 407,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 2
+        },
+        "time_left": 50.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 324,
+            "energy": 89,
+            "position": {
+                "left": 315,
+                "right": 355,
+                "top": 390,
+                "bottom": 595
+            },
+            "speed": {
+                "x": 9,
+                "y": 5
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fa",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 368,
+            "energy": 89,
+            "position": {
+                "left": 371,
+                "right": 411,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 5,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 49.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 324,
+            "energy": 93,
+            "position": {
+                "left": 381,
+                "right": 421,
+                "top": 322,
+                "bottom": 487
+            },
+            "speed": {
+                "x": 2,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_db",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 360,
+            "energy": 94,
+            "position": {
+                "left": 581,
+                "right": 621,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 8,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Back_step",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 48.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 312,
+            "energy": 113,
+            "position": {
+                "left": 348,
+                "right": 388,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -14,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Back_step",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 360,
+            "energy": 104,
+            "position": {
+                "left": 569,
+                "right": 609,
+                "top": 287,
+                "bottom": 492
+            },
+            "speed": {
+                "x": -6,
+                "y": -14
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_b",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 47.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 302,
+            "energy": 133,
+            "position": {
+                "left": 178,
+                "right": 218,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_recov",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 360,
+            "energy": 114,
+            "position": {
+                "left": 312,
+                "right": 352,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 46.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 290,
+            "energy": 143,
+            "position": {
+                "left": 85,
+                "right": 125,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 360,
+            "energy": 124,
+            "position": {
+                "left": 243,
+                "right": 283,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -8,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "time_left": 45.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 280,
+            "energy": 156,
+            "position": {
+                "left": 85,
+                "right": 125,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -4,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_recov",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 355,
+            "energy": 134,
+            "position": {
+                "left": 222,
+                "right": 262,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 44.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 268,
+            "energy": 176,
+            "position": {
+                "left": 10,
+                "right": 50,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 343,
+            "energy": 154,
+            "position": {
+                "left": 322,
+                "right": 362,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 43.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 268,
+            "energy": 26,
+            "position": {
+                "left": 0,
+                "right": 40,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_d_df_fc",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 343,
+            "energy": 154,
+            "position": {
+                "left": 322,
+                "right": 362,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 42.0,
+        "projectiles": [
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 30,
+                    "right": 80,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": 10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 260,
+            "energy": 36,
+            "position": {
+                "left": 240,
+                "right": 280,
+                "top": 364,
+                "bottom": 569
+            },
+            "speed": {
+                "x": -5,
+                "y": 10
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_recov",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 343,
+            "energy": 162,
+            "position": {
+                "left": 388,
+                "right": 428,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Landing",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 41.0,
+        "projectiles": [
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 630,
+                    "right": 680,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": 10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 248,
+            "energy": 56,
+            "position": {
+                "left": 284,
+                "right": 324,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 6,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 343,
+            "energy": 172,
+            "position": {
+                "left": 328,
+                "right": 368,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 40.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 238,
+            "energy": 71,
+            "position": {
+                "left": 241,
+                "right": 281,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -2,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 333,
+            "energy": 187,
+            "position": {
+                "left": 406,
+                "right": 446,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 2,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 39.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 226,
+            "energy": 91,
+            "position": {
+                "left": 133,
+                "right": 173,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 321,
+            "energy": 217,
+            "position": {
+                "left": 439,
+                "right": 479,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch",
+            "control": true,
+            "combo": 1
+        },
+        "time_left": 38.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 226,
+            "energy": 91,
+            "position": {
+                "left": 133,
+                "right": 173,
+                "top": 163,
+                "bottom": 368
+            },
+            "speed": {
+                "x": 0,
+                "y": 8
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_ua",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 321,
+            "energy": 67,
+            "position": {
+                "left": 604,
+                "right": 644,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 4,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Back_step",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 37.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 164,
+                    "right": 214,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": -10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 226,
+            "energy": 86,
+            "position": {
+                "left": 118,
+                "right": 158,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_b",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 311,
+            "energy": 77,
+            "position": {
+                "left": 219,
+                "right": 259,
+                "top": 426,
+                "bottom": 631
+            },
+            "speed": {
+                "x": 5,
+                "y": -3
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 36.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 226,
+            "energy": 96,
+            "position": {
+                "left": 135,
+                "right": 175,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 2,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 299,
+            "energy": 97,
+            "position": {
+                "left": 253,
+                "right": 293,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -2,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 35.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 214,
+            "energy": 126,
+            "position": {
+                "left": 233,
+                "right": 273,
+                "top": 270,
+                "bottom": 475
+            },
+            "speed": {
+                "x": 10,
+                "y": -3
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 287,
+            "energy": 117,
+            "position": {
+                "left": 370,
+                "right": 410,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 34.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 206,
+            "energy": 131,
+            "position": {
+                "left": 223,
+                "right": 263,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Throw_a",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 277,
+            "energy": 131,
+            "position": {
+                "left": 455,
+                "right": 495,
+                "top": 381,
+                "bottom": 586
+            },
+            "speed": {
+                "x": 0,
+                "y": 2
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fa",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 33.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 198,
+            "energy": 136,
+            "position": {
+                "left": 269,
+                "right": 309,
+                "top": 400,
+                "bottom": 605
+            },
+            "speed": {
+                "x": 10,
+                "y": -16
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 277,
+            "energy": 135,
+            "position": {
+                "left": 395,
+                "right": 435,
+                "top": 285,
+                "bottom": 490
+            },
+            "speed": {
+                "x": -10,
+                "y": -6
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 32.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 193,
+            "energy": 141,
+            "position": {
+                "left": 444,
+                "right": 484,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -2,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 277,
+            "energy": 138,
+            "position": {
+                "left": 497,
+                "right": 537,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_a",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 31.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 181,
+            "energy": 151,
+            "position": {
+                "left": 321,
+                "right": 361,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 277,
+            "energy": 148,
+            "position": {
+                "left": 497,
+                "right": 537,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 30.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 169,
+            "energy": 161,
+            "position": {
+                "left": 216,
+                "right": 256,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 277,
+            "energy": 158,
+            "position": {
+                "left": 382,
+                "right": 422,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 29.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 169,
+            "energy": 171,
+            "position": {
+                "left": 266,
+                "right": 306,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 265,
+            "energy": 168,
+            "position": {
+                "left": 369,
+                "right": 409,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 12,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Change_down",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 28.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 169,
+            "energy": 171,
+            "position": {
+                "left": 371,
+                "right": 411,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 265,
+            "energy": 168,
+            "position": {
+                "left": 447,
+                "right": 487,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 27.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 169,
+            "energy": 175,
+            "position": {
+                "left": 391,
+                "right": 431,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fa",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 257,
+            "energy": 163,
+            "position": {
+                "left": 516,
+                "right": 556,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 26.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 169,
+            "energy": 190,
+            "position": {
+                "left": 391,
+                "right": 431,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_fb",
+            "control": false,
+            "combo": 2
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 235,
+            "energy": 193,
+            "position": {
+                "left": 548,
+                "right": 588,
+                "top": 288,
+                "bottom": 493
+            },
+            "speed": {
+                "x": -4,
+                "y": -17
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air",
+            "control": true,
+            "combo": 0
+        },
+        "time_left": 25.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 159,
+            "energy": 60,
+            "position": {
+                "left": 72,
+                "right": 112,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -2,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_d_df_fc",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 235,
+            "energy": 53,
+            "position": {
+                "left": 516,
+                "right": 556,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_d_df_fc",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 24.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 556,
+                    "right": 606,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": -10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 159,
+            "energy": 50,
+            "position": {
+                "left": 173,
+                "right": 213,
+                "top": 45,
+                "bottom": 250
+            },
+            "speed": {
+                "x": 10,
+                "y": -12
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 235,
+            "energy": 53,
+            "position": {
+                "left": 522,
+                "right": 562,
+                "top": 212,
+                "bottom": 417
+            },
+            "speed": {
+                "x": -5,
+                "y": 10
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_ub",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 23.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": -44,
+                    "right": 6,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": -10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            },
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 479,
+                    "right": 529,
+                    "top": 505,
+                    "bottom": 545
+                },
+                "speed": {
+                    "x": 10,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 120,
+                "down": true
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 159,
+            "energy": 54,
+            "position": {
+                "left": 608,
+                "right": 648,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fa",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 227,
+            "energy": 58,
+            "position": {
+                "left": 768,
+                "right": 808,
+                "top": 265,
+                "bottom": 470
+            },
+            "speed": {
+                "x": 10,
+                "y": 11
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 22.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 149,
+            "energy": 64,
+            "position": {
+                "left": 669,
+                "right": 709,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 227,
+            "energy": 63,
+            "position": {
+                "left": 748,
+                "right": 788,
+                "top": 392,
+                "bottom": 597
+            },
+            "speed": {
+                "x": -6,
+                "y": 21
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_fa",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 21.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 149,
+            "energy": 74,
+            "position": {
+                "left": 679,
+                "right": 719,
+                "top": 445,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 9,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Dash",
+            "control": true,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 215,
+            "energy": 73,
+            "position": {
+                "left": 895,
+                "right": 935,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 20.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 149,
+            "energy": 78,
+            "position": {
+                "left": 754,
+                "right": 794,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fa",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 207,
+            "energy": 78,
+            "position": {
+                "left": 892,
+                "right": 932,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 2,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 19.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 137,
+            "energy": 88,
+            "position": {
+                "left": 649,
+                "right": 689,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 207,
+            "energy": 88,
+            "position": {
+                "left": 895,
+                "right": 935,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 18.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 137,
+            "energy": 78,
+            "position": {
+                "left": 843,
+                "right": 883,
+                "top": -1,
+                "bottom": 204
+            },
+            "speed": {
+                "x": 10,
+                "y": 1
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 207,
+            "energy": 88,
+            "position": {
+                "left": 591,
+                "right": 631,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -6,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 17.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 137,
+            "energy": 73,
+            "position": {
+                "left": 920,
+                "right": 960,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_d_df_fa",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 207,
+            "energy": 83,
+            "position": {
+                "left": 570,
+                "right": 610,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_d_df_fa",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 16.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 703,
+                    "right": 748,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": 3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            },
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 815,
+                    "right": 860,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": -3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 137,
+            "energy": 83,
+            "position": {
+                "left": 770,
+                "right": 810,
+                "top": 185,
+                "bottom": 390
+            },
+            "speed": {
+                "x": -6,
+                "y": 3
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Air_fb",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 195,
+            "energy": 103,
+            "position": {
+                "left": 610,
+                "right": 650,
+                "top": 240,
+                "bottom": 445
+            },
+            "speed": {
+                "x": -10,
+                "y": 11
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Air_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 15.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 883,
+                    "right": 928,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": 3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            },
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 635,
+                    "right": 680,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": -3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 125,
+            "energy": 106,
+            "position": {
+                "left": 670,
+                "right": 710,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 190,
+            "energy": 118,
+            "position": {
+                "left": 420,
+                "right": 460,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 14.0,
+        "projectiles": [
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 1063,
+                    "right": 1108,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": 3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 125,
+            "energy": 96,
+            "position": {
+                "left": 150,
+                "right": 190,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 4,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Forward_walk",
+            "control": true,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 190,
+            "energy": 118,
+            "position": {
+                "left": 835,
+                "right": 875,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 13.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 125,
+            "energy": 91,
+            "position": {
+                "left": 160,
+                "right": 200,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_d_df_fa",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 190,
+            "energy": 113,
+            "position": {
+                "left": 835,
+                "right": 875,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_d_df_fa",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 12.0,
+        "projectiles": [
+            {
+                "from": "player_1",
+                "position": {
+                    "left": 359,
+                    "right": 404,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": 3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            },
+            {
+                "from": "player_2",
+                "position": {
+                    "left": 664,
+                    "right": 709,
+                    "top": 510,
+                    "bottom": 530
+                },
+                "speed": {
+                    "x": -3,
+                    "y": 0
+                },
+                "type": "High",
+                "damage": 5,
+                "down": false
+            }
+        ]
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 120,
+            "energy": 99,
+            "position": {
+                "left": 408,
+                "right": 448,
+                "top": 384,
+                "bottom": 589
+            },
+            "speed": {
+                "x": 10,
+                "y": -15
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 185,
+            "energy": 121,
+            "position": {
+                "left": 694,
+                "right": 734,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 8,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Landing",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 11.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 120,
+            "energy": 99,
+            "position": {
+                "left": 447,
+                "right": 487,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 185,
+            "energy": 121,
+            "position": {
+                "left": 491,
+                "right": 531,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 10.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 120,
+            "energy": 96,
+            "position": {
+                "left": 530,
+                "right": 570,
+                "top": 264,
+                "bottom": 469
+            },
+            "speed": {
+                "x": 10,
+                "y": 1
+            },
+            "direction": "Right",
+            "state": "Air",
+            "action": "Stand_d_db_ba",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 175,
+            "energy": 131,
+            "position": {
+                "left": 691,
+                "right": 771,
+                "top": 420,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 3,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Air",
+            "action": "Throw_suffer",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 9.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 110,
+            "energy": 111,
+            "position": {
+                "left": 685,
+                "right": 725,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -1,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 165,
+            "energy": 146,
+            "position": {
+                "left": 793,
+                "right": 833,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 8.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 98,
+            "energy": 121,
+            "position": {
+                "left": 564,
+                "right": 604,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 165,
+            "energy": 156,
+            "position": {
+                "left": 783,
+                "right": 823,
+                "top": 445,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -9,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Dash",
+            "control": true,
+            "combo": 0
+        },
+        "time_left": 7.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 98,
+            "energy": 123,
+            "position": {
+                "left": 579,
+                "right": 619,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand_a",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 160,
+            "energy": 161,
+            "position": {
+                "left": 667,
+                "right": 707,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 3,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand_recov",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 6.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 90,
+            "energy": 133,
+            "position": {
+                "left": 534,
+                "right": 574,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 4,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Forward_walk",
+            "control": true,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 150,
+            "energy": 175,
+            "position": {
+                "left": 678,
+                "right": 718,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -4,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Forward_walk",
+            "control": true,
+            "combo": 1
+        },
+        "time_left": 5.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 90,
+            "energy": 143,
+            "position": {
+                "left": 574,
+                "right": 614,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 138,
+            "energy": 185,
+            "position": {
+                "left": 778,
+                "right": 818,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Rise",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 4.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 90,
+            "energy": 143,
+            "position": {
+                "left": 695,
+                "right": 735,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 138,
+            "energy": 185,
+            "position": {
+                "left": 737,
+                "right": 777,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Stand",
+            "action": "Stand",
+            "control": true,
+            "combo": 0
+        },
+        "time_left": 3.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 90,
+            "energy": 158,
+            "position": {
+                "left": 695,
+                "right": 735,
+                "top": 475,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Crouch",
+            "action": "Crouch_fb",
+            "control": false,
+            "combo": 2
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 116,
+            "energy": 195,
+            "position": {
+                "left": 917,
+                "right": 957,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": 0,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 0
+        },
+        "time_left": 2.0,
+        "projectiles": []
+    },
+    {
+        "player_1": {
+            "character_name": "Zen",
+            "hp": 78,
+            "energy": 178,
+            "position": {
+                "left": 732,
+                "right": 772,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -7,
+                "y": 0
+            },
+            "direction": "Right",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 1
+        },
+        "player_2": {
+            "character_name": "Zen",
+            "hp": 104,
+            "energy": 215,
+            "position": {
+                "left": 913,
+                "right": 953,
+                "top": 435,
+                "bottom": 640
+            },
+            "speed": {
+                "x": -2,
+                "y": 0
+            },
+            "direction": "Left",
+            "state": "Down",
+            "action": "Down",
+            "control": false,
+            "combo": 1
+        },
+        "time_left": 1.0,
+        "projectiles": []
+    }
+]

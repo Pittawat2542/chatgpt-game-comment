@@ -8,7 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-data
+logs
+outputs
 
 # IPython
 profile_default/
