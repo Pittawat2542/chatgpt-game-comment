@@ -1,39 +1,20 @@
-COMPONENTS = [
+from src.config import PROMPT_COMPONENTS
 
-    f"""# Game info
-Game genre: 1v1 2D fighting game
-Game scene: 960x640 (width x height)
-Game duration: 60 seconds""",
 
-    f"""# Constraints
-- If both players are using same character, do not mention only the character name but also include `Player 1` or `Player 2` to avoid confusion""",
-
-    f"""# Parameters
-- `Time left` is the time left in the game in seconds
-- `HP` is the health points of the player (max 400, starting from 400)
-- `Energy` is the energy points of the player (max 300, starting from 0)
-- `Position` is the position of the player in the game scene
-- `Speed` is the speed of the player in the game scene (x is horizontal, y is vertical)
-- `Direction` is the direction the player is facing
-- `Character state` is the current state of the player (Stand -- the character is on the ground; Crouch -- the character is crouching; Air -- the character is in the air; Down -- the character is down, unable to control)
-- `Action` is the current action of the player
-- `Combo` is the current combo of the player""",
-
-]
-
-def game_comment_prompt(game_state: list[dict], n_prev_states: int = 3, component: int = 3) -> str:
+def game_comment_prompt(game_state: list[dict], prompt_component_enabling: list[bool], n_prev_states: int = 3) -> str:
     current_state_str = get_state_str(game_state[-1])
     previous_states_str = ""
     for i in range(n_prev_states):
         previous_states_str += f"{get_state_str(game_state[-2 - i])}\n\n"
 
+    info_str = ""
+    for idx, component in enumerate(PROMPT_COMPONENTS):
+        if prompt_component_enabling[idx]:
+            info_str += f"{component}\n\n"
+
     return f"""Given the following game state, provide an appropriate, one-sentence, concise game commentary to entertain the audience that is natural and does not delve into too many details. Consider not only the current game state but also the previous three game states. This comment will be used as part of the live commentary system, along with other past and future messages. Outputs are in the specified JSON format between the code blocks (```json and ```).
 
-{"" if component == 0 else COMPONENTS[0]}
-
-{"" if component == 1 else COMPONENTS[1]}
-
-{"" if component == 2 else COMPONENTS[2]}
+{info_str}
 
 # Game states
 ## Current game state
