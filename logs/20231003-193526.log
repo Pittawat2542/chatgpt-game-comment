@@ -1,0 +1,147 @@
+[2023-10-03 19:35:26] Running task for game state 3.
+[2023-10-03 19:35:26] Starting game comment generation.
+[2023-10-03 19:35:26] Component # Game info
+Game genre: 1v1 2D fighting game
+Game scene: 960x640 (width x height):
+[2023-10-03 19:35:26] Interacting with ChatGPT API.
+[2023-10-03 19:35:29] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:29] Response: {
+"comment": "Player 1 and Player 2 are engaged in an intense aerial battle at the left edge of the game scene!"
+}
+[2023-10-03 19:35:29] Saving raw response.
+[2023-10-03 19:35:29] Saving parsed response.
+[2023-10-03 19:35:29] Finished game comment generation.
+[2023-10-03 19:35:29] Component # Constraints
+- If both players are using same character, do not mention only the character name but also include `Player 1` or `Player 2` to avoid confusion:
+[2023-10-03 19:35:29] Interacting with ChatGPT API.
+[2023-10-03 19:35:30] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:30] Response: {
+  "comment": "Zen is crouching, but Zen managed to rise and is now standing, while Zen is in the air performing an air attack."
+}
+[2023-10-03 19:35:30] Saving raw response.
+[2023-10-03 19:35:30] Saving parsed response.
+[2023-10-03 19:35:30] Finished game comment generation.
+[2023-10-03 19:35:30] Component # Parameters
+- `HP` is the health points of the player (max 400, starting from 400)
+- `Energy` is the energy points of the player (max 300, starting from 0)
+- `Position` is the position of the player in the game scene
+- `Speed` is the speed of the player in the game scene (x is horizontal, y is vertical)
+- `Direction` is the direction the player is facing
+- `Character state` is the current state of the player (Stand -- the character is on the ground; Crouch -- the character is crouching; Air -- the character is in the air; Down -- the character is down, unable to control)
+- `Action` is the current action of the player
+- `Combo` is the current combo of the player:
+[2023-10-03 19:35:30] Interacting with ChatGPT API.
+[2023-10-03 19:35:32] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:32] Response: {
+"comment": "Player 1 and Player 2 are engaged in an intense aerial battle, with Player 2 trying to close the gap and land a hit on Player 1, who is currently in the lead."
+}
+[2023-10-03 19:35:32] Saving raw response.
+[2023-10-03 19:35:32] Saving parsed response.
+[2023-10-03 19:35:32] Finished game comment generation.
+[2023-10-03 19:35:32] Component All:
+[2023-10-03 19:35:32] Interacting with ChatGPT API.
+[2023-10-03 19:35:34] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:34] Response: {
+"comment": "Player 1's Zen is standing firm while Player 2's Zen is trying to attack from the air, both players' health points dropping steadily."
+}
+[2023-10-03 19:35:34] Saving raw response.
+[2023-10-03 19:35:34] Saving parsed response.
+[2023-10-03 19:35:34] Finished game comment generation.
+[2023-10-03 19:35:34] Running task for game state 26.
+[2023-10-03 19:35:34] Starting game comment generation.
+[2023-10-03 19:35:34] Component # Game info
+Game genre: 1v1 2D fighting game
+Game scene: 960x640 (width x height):
+[2023-10-03 19:35:34] Interacting with ChatGPT API.
+[2023-10-03 19:35:36] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:36] Response: {
+"comment": "Player 1 performs a crouching attack while Player 2 is in the air, but misses the combo opportunity."
+}
+[2023-10-03 19:35:36] Saving raw response.
+[2023-10-03 19:35:36] Saving parsed response.
+[2023-10-03 19:35:36] Finished game comment generation.
+[2023-10-03 19:35:36] Component # Constraints
+- If both players are using same character, do not mention only the character name but also include `Player 1` or `Player 2` to avoid confusion:
+[2023-10-03 19:35:36] Interacting with ChatGPT API.
+[2023-10-03 19:35:38] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:38] Response: {
+  "comment": "Zen is crouching and performing a crouching punch, while Zen is in the air and performing a down-backward punch kick."
+}
+[2023-10-03 19:35:38] Saving raw response.
+[2023-10-03 19:35:38] Saving parsed response.
+[2023-10-03 19:35:38] Finished game comment generation.
+[2023-10-03 19:35:38] Component # Parameters
+- `HP` is the health points of the player (max 400, starting from 400)
+- `Energy` is the energy points of the player (max 300, starting from 0)
+- `Position` is the position of the player in the game scene
+- `Speed` is the speed of the player in the game scene (x is horizontal, y is vertical)
+- `Direction` is the direction the player is facing
+- `Character state` is the current state of the player (Stand -- the character is on the ground; Crouch -- the character is crouching; Air -- the character is in the air; Down -- the character is down, unable to control)
+- `Action` is the current action of the player
+- `Combo` is the current combo of the player:
+[2023-10-03 19:35:38] Interacting with ChatGPT API.
+[2023-10-03 19:35:39] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:39] Response: {
+"comment": "Player 1's crouching attack is blocked by Player 2 who is in the air, both players are low on health and energy."
+}
+[2023-10-03 19:35:39] Saving raw response.
+[2023-10-03 19:35:39] Saving parsed response.
+[2023-10-03 19:35:39] Finished game comment generation.
+[2023-10-03 19:35:39] Component All:
+[2023-10-03 19:35:39] Interacting with ChatGPT API.
+[2023-10-03 19:35:41] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:41] Response: {
+"comment": "Player 1 Zen is crouching, Player 2 Zen is in the air, and Player 2 Zen's health is low."
+}
+[2023-10-03 19:35:41] Saving raw response.
+[2023-10-03 19:35:41] Saving parsed response.
+[2023-10-03 19:35:41] Finished game comment generation.
+[2023-10-03 19:35:41] Running task for game state 49.
+[2023-10-03 19:35:41] Starting game comment generation.
+[2023-10-03 19:35:41] Component # Game info
+Game genre: 1v1 2D fighting game
+Game scene: 960x640 (width x height):
+[2023-10-03 19:35:41] Interacting with ChatGPT API.
+[2023-10-03 19:35:43] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:43] Response: {
+"comment": "Player 1 is standing still while Player 2 is in the air and throwing an attack, it seems that Player 1 has a significant advantage in terms of health points and energy but Player 2 might still have a chance to make a comeback."
+}
+[2023-10-03 19:35:43] Saving raw response.
+[2023-10-03 19:35:43] Saving parsed response.
+[2023-10-03 19:35:43] Finished game comment generation.
+[2023-10-03 19:35:43] Component # Constraints
+- If both players are using same character, do not mention only the character name but also include `Player 1` or `Player 2` to avoid confusion:
+[2023-10-03 19:35:43] Interacting with ChatGPT API.
+[2023-10-03 19:35:45] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:45] Response: {
+  "comment": "Zen is barely holding on with only 7 health remaining, while still managing to dish out some damage to his opponent in the air!"
+}
+[2023-10-03 19:35:45] Saving raw response.
+[2023-10-03 19:35:45] Saving parsed response.
+[2023-10-03 19:35:45] Finished game comment generation.
+[2023-10-03 19:35:45] Component # Parameters
+- `HP` is the health points of the player (max 400, starting from 400)
+- `Energy` is the energy points of the player (max 300, starting from 0)
+- `Position` is the position of the player in the game scene
+- `Speed` is the speed of the player in the game scene (x is horizontal, y is vertical)
+- `Direction` is the direction the player is facing
+- `Character state` is the current state of the player (Stand -- the character is on the ground; Crouch -- the character is crouching; Air -- the character is in the air; Down -- the character is down, unable to control)
+- `Action` is the current action of the player
+- `Combo` is the current combo of the player:
+[2023-10-03 19:35:45] Interacting with ChatGPT API.
+[2023-10-03 19:35:46] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:46] Response: {
+"comment": "Player 1's Zen is in a standing position, while Player 2's Zen is in the air after suffering a throw, with Player 1 having a significant advantage in HP and Energy."
+}
+[2023-10-03 19:35:46] Saving raw response.
+[2023-10-03 19:35:46] Saving parsed response.
+[2023-10-03 19:35:46] Finished game comment generation.
+[2023-10-03 19:35:46] Component All:
+[2023-10-03 19:35:46] Interacting with ChatGPT API.
+[2023-10-03 19:35:48] Finished interacting with ChatGPT API.
+[2023-10-03 19:35:48] Response: {
+"comment": "Player 2 is struggling with low health and energy, while Player 1 maintains the upper hand with a stand action and a slight advantage in HP and energy."
+}
+[2023-10-03 19:35:48] Saving raw response.
+[2023-10-03 19:35:48] Saving parsed response.
+[2023-10-03 19:35:48] Finished game comment generation.
