@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 and Player 2 are locked in a close battle, both using Zen and in a Stand state."
+}

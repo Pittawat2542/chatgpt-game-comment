@@ -1,0 +1,3 @@
+{
+  "comment": "Player 1 delivers a devastating combo to Player 2, leaving them on the brink of defeat."
+}

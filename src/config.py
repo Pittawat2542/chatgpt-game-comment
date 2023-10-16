@@ -4,20 +4,18 @@ OUTPUTS_DIR_PATH = Path("outputs")
 LOGS_FOLDER = Path("logs")
 DATA_FOLDER = Path("data")
 
-GAME_STATE_PATH = Path("P2Slow/game_state.json")  # Change this for different game states
+GAME_STATE_PATH = Path("Draw/game_log_converted.json")  # Change this for different game states
 NUM_PREV_STATES = 2 # Change this for different number of previous states
 
 PROMPT_COMPONENTS = [
     f"""# Game info
 Game genre: 1v1 2D fighting game
-Game scene: 960x640 (width x height)
-Game duration: 60 seconds""",
+Game scene: 960x640 (width x height)""",
 
     f"""# Constraints
 - If both players are using same character, do not mention only the character name but also include `Player 1` or `Player 2` to avoid confusion""",
 
     f"""# Parameters
-- `Time left` is the time left in the game in seconds
 - `HP` is the health points of the player (max 400, starting from 400)
 - `Energy` is the energy points of the player (max 300, starting from 0)
 - `Position` is the position of the player in the game scene

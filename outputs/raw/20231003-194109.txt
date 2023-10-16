@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 and Player 2 are engaged in an intense aerial battle, with both characters using their special moves to deplete energy and land powerful hits."
+}

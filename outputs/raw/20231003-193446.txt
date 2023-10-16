@@ -1,0 +1,3 @@
+{
+"comment": "Zen is crouching and launching a crouching back attack with a combo of 6, while the opponent is standing in recovery mode. Zen's health is 400 out of 400, and energy is 38 out of 300, while the opponent's health is 330 out of 400, and energy is 70 out of 300."
+}

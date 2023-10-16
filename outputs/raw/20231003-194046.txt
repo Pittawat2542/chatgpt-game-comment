@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 is currently in the air and Player 2 is standing, with Player 1 having less HP and energy."
+}

@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 is standing still while Player 2 is in the air and throwing an attack, it seems that Player 1 has a significant advantage in terms of health points and energy but Player 2 might still have a chance to make a comeback."
+}

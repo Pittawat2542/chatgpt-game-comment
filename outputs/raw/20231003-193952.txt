@@ -1,0 +1,3 @@
+{
+"comment": "Zen deals a crouching blow to Zen, bringing Player 2's HP down to 400. Zen manages to recover from the attack but only has 343 HP remaining."
+}

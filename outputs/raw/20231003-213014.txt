@@ -1,0 +1,1 @@
+{"comment": "Player 1's Zen is in a down state while Player 2's Zen is crouching and executing a fireball combo with 2 hits."}

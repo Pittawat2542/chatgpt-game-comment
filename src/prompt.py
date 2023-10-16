@@ -32,8 +32,7 @@ def game_comment_prompt(game_state: list[dict], prompt_component_enabling: list[
 
 
 def get_state_str(game_state: dict) -> str:
-    return f"""- Time left: {game_state["time_left"]} second(s)
-### Player 1
+    return f"""### Player 1
 - Name: {game_state["player_1"]["character_name"]}
 - HP: {game_state["player_1"]["hp"]}/400
 - Energy: {game_state["player_1"]["energy"]}/300

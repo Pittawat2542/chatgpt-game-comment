@@ -1,0 +1,3 @@
+{
+  "comment": "Player 1 is currently in a Stand_fb action with 55/400 HP and 86/300 Energy, while Player 2 is also in a Stand_fb action with 9/400 HP and 69/300 Energy."
+}

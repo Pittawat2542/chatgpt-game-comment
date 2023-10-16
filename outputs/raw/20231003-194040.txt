@@ -1,0 +1,3 @@
+{
+"comment": "Player 1's Zen is down on the ground, while Player 2's Zen is crouching and performing a crouching forward punch combo."
+}

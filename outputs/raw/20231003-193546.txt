@@ -1,0 +1,3 @@
+{
+"comment": "Player 1's Zen is in a standing position, while Player 2's Zen is in the air after suffering a throw, with Player 1 having a significant advantage in HP and Energy."
+}

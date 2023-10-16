@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 and Player 2 are engaged in an intense aerial battle, with Player 2 trying to close the gap and land a hit on Player 1, who is currently in the lead."
+}

@@ -1,0 +1,3 @@
+{
+"comment": "Zen is on the defensive, with just 194 HP remaining, while Zen's opponent is playing aggressively with a combo of 18."
+}

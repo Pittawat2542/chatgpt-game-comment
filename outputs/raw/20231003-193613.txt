@@ -1,0 +1,1 @@
+{"comment": "Player 2 Zen's Crouch_b combo has forced Player 1 Zen to switch from Stand to Stand_recov at the left side of the scene."}

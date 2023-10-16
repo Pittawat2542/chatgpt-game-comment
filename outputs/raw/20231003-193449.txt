@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 delivers a strong crouching attack to Player 2, maintaining a combo of 6."
+}

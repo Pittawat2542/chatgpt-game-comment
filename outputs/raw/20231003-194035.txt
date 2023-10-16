@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 and Player 2 are evenly matched in this stand-off, with their characters in a Stand state and executing Stand_fb actions."
+}

@@ -1,0 +1,3 @@
+{
+"comment": "Player 1 is recovering from a stand, while Player 2 is crouching. Player 1 has more health and energy remaining."
+}
