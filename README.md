@@ -1,4 +1,4 @@
-# Am I Fighting Well? Fighting Game Commentary Generation With ChatGPT
+# Am I Fighting Well? Fighting Game Commentary Generation With ChatGPT ([Paper](https://dl.acm.org/doi/10.1145/3628454.3629551))
 
 This repository contains the code for the paper "Am I Fighting Well? Fighting Game Commentary Generation With ChatGPT" accepted at [IAIT 2023](https://www.iait-conf.org/2023/).
 
